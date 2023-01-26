@@ -1,20 +1,30 @@
-{Mr Roboger's Neighborhood}
-By {Owen Brown}
-{This is a web application that takes numerical user input and returns a pattern based on the given number. Discover what Mr. Roboger has been trying to tell you!}
-Technologies Used
-HTML
-CSS
-JS
-Description
-_{The application takes a number from the user and returns a list of values from 0 to the user's inputted number with the following substitutions made within the returned list:
+# _{Tic Tac Toe}_
 
-For numbers that contain a 1, all digits are replaced with "Beep!"
-For numbers that contain a 2, all digits are replaced with "Boop!"
-For numbers that contain a 3, all digits are replaced with "Won't you be my neighbor?"}
-Setup/Installation Requirements
-Clone this repository to your desktop.
-Open a new tab, drag the HTML document into the blank search bar and hit enter.
-Known Bugs
-JS and CSS won't register when the html doc is dragged into an empty tab's url bar. This is due to the scripts.js and styles.css files being placed in their respective folders. Using a live server in vscode gets the webpage to register them but that doesn't fix the issue. So for the time being, the files remain outside their respective css and js folders.
-License
-Copyright (c) January 20th, 2023 Owen Brown
+#### By _**{Owen Brown}**_
+
+#### _{This is a web application that listens to user input and outputs X or O until a win condition occurs. Sit down and play with a friend!}_
+
+## Technologies Used
+
+* _HTML_
+* _CSS_
+* _JS_
+
+## Description
+
+_{The application takes in user input and displayes X or O until a win condition occurs. It can restart the game on button click.}_
+* _If X is taken, use O, and back and forth_
+
+## Setup/Installation Requirements
+
+* _Clone this repository to your desktop._
+* _Open a new tab, drag the HTML document into the blank search bar and hit enter._ 
+
+
+## Known Bugs
+
+* None
+
+## License
+
+Copyright (c) _January 26th, 2023_ _Owen Brown_
